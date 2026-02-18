@@ -1,5 +1,10 @@
 # MJur: Zotero Zitierstil für juristische Arbeiten 
 
+## Hilfreiche Links
+- [Zotero herunterladen](https://www.zotero.org/download/)
+- [Zitierstil in Zotero hinzufügen](https://www.zotero.org/support/preferences/cite)
+
+
 ## Allgemeine Infos
 
 -   Der Zitierstil orientiert sich an in rechtswissenschaftlichen Publikationen weit verbreiteten Zitierweisen.
