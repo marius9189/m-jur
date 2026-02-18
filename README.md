@@ -1,4 +1,4 @@
-# Zotero MJur
+# MJur: Zotero Zitierstil für juristische Arbeiten 
 
 ## Allgemeine Infos
 
