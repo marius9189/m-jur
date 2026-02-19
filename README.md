@@ -4,7 +4,7 @@
 - [Zotero herunterladen](https://www.zotero.org/download/)
 - [Zitierstil in Zotero hinzufügen](https://www.zotero.org/support/preferences/cite)
 - [Visual CSL-Editor](https://editor.citationstyles.org/visualEditor/) zum individuellen Anpassen des Zitierstils
-- [Zotero Item Types Map](https://aurimasv.github.io/z2csl/typeMap.xml)
+- [Zotero Item Types Map](https://aurimasv.github.io/z2csl/typeMap.xml) zur Zuordnung der Zotero Felder zu den CSL-Variablen
 
 
 
