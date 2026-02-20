@@ -1,0 +1,300 @@
+[
+	{
+		"id": "http://zotero.org/users/14840777/items/9KDU9KHU",
+		"type": "chapter",
+		"container-title": "Book Title",
+		"edition": "3",
+		"event-place": "Place",
+		"page": "100-200",
+		"publisher-place": "Place",
+		"title": "Test Book Section (Title)",
+		"title-short": "Short Title (Book)",
+		"author": [
+			{
+				"literal": "Author 1 (Chapter)"
+			},
+			{
+				"literal": "Author 2 (Chapter)"
+			}
+		],
+		"container-author": [
+			{
+				"literal": "Author 1 (Book)"
+			},
+			{
+				"literal": "Author 2 (Book)"
+			}
+		],
+		"editor": [
+			{
+				"literal": "Editor 1"
+			},
+			{
+				"literal": "Editor 2"
+			}
+		],
+		"collection-editor": [
+			{
+				"literal": "Begr. 1"
+			},
+			{
+				"literal": "Begr. 2"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2222"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14840777/items/GIS3LZ5Y",
+		"type": "book",
+		"edition": "3",
+		"event-place": "Place",
+		"publisher-place": "Place",
+		"title": "Test Book (Title)",
+		"title-short": "Short Title",
+		"author": [
+			{
+				"literal": "Author 1"
+			},
+			{
+				"literal": "Author 2"
+			}
+		],
+		"editor": [
+			{
+				"literal": "Editor 1"
+			},
+			{
+				"literal": "Editor 2"
+			}
+		],
+		"collection-editor": [
+			{
+				"literal": "Begr. 1"
+			},
+			{
+				"literal": "Begr. 2"
+			}
+		],
+		"translator": [
+			{
+				"literal": "Eigenname"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2222"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14840777/items/Z328YM22",
+		"type": "legal_case",
+		"authority": "Court",
+		"container-title": "Reporter",
+		"number": "I 2 C IV 5",
+		"page": "100-200",
+		"title": "Case Name",
+		"volume": "1900",
+		"issued": {
+			"date-parts": [
+				[
+					"1900",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14840777/items/7K739LYX",
+		"type": "entry-encyclopedia",
+		"container-title": "Name1/Name2, Kommentar Title",
+		"edition": "3",
+		"event-place": "Place",
+		"note": "3. Altauflage",
+		"publisher-place": "Place",
+		"title": "Test Kommentar mit KT (Title)",
+		"title-short": "Short Title",
+		"author": [
+			{
+				"literal": "Author 1"
+			},
+			{
+				"literal": "Author 2"
+			}
+		],
+		"editor": [
+			{
+				"literal": "Editor 1"
+			},
+			{
+				"literal": "Editor 2"
+			}
+		],
+		"collection-editor": [
+			{
+				"literal": "Begr. 1"
+			},
+			{
+				"literal": "Begr. 2"
+			}
+		],
+		"translator": [
+			{
+				"literal": "Eigenname"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2222"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14840777/items/EF93GPPY",
+		"type": "entry-encyclopedia",
+		"container-title": "Name1/Name2, Kommentar Title",
+		"edition": "3",
+		"event-place": "Place",
+		"note": "3. Altauflage",
+		"publisher-place": "Place",
+		"title": "Test Kommentar mit KT (Title)",
+		"author": [
+			{
+				"literal": "Author 1"
+			},
+			{
+				"literal": "Author 2"
+			}
+		],
+		"editor": [
+			{
+				"literal": "Editor 1"
+			},
+			{
+				"literal": "Editor 2"
+			}
+		],
+		"collection-editor": [
+			{
+				"literal": "Begr. 1"
+			},
+			{
+				"literal": "Begr. 2"
+			}
+		],
+		"translator": [
+			{
+				"literal": "Eigenname"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2222"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14840777/items/B877Z8EJ",
+		"type": "document",
+		"archive": "1IIC4VF",
+		"publisher": "Publisher",
+		"title": "Test Dokument",
+		"URL": "www.url.de",
+		"author": [
+			{
+				"literal": "Author 1"
+			},
+			{
+				"literal": "Author 2"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1900",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14840777/items/Y8UHLK3G",
+		"type": "webpage",
+		"container-title": "Website Title",
+		"title": "Test Webpage mit Autor",
+		"URL": "www.url.de",
+		"author": [
+			{
+				"literal": "Author 1"
+			},
+			{
+				"literal": "Author 2"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1900",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14840777/items/XFI6IVCP",
+		"type": "webpage",
+		"container-title": "Website Title",
+		"title": "Test Webpage ohne Autor",
+		"URL": "www.url.de",
+		"issued": {
+			"date-parts": [
+				[
+					"1900",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14840777/items/NKHHM5MS",
+		"type": "article-journal",
+		"container-title": "Publication",
+		"issue": "03",
+		"page": "100-200",
+		"title": "Test Journal Article (Title)",
+		"volume": "97",
+		"author": [
+			{
+				"literal": "Author 1"
+			},
+			{
+				"literal": "Author 2"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1900",
+					1,
+					1
+				]
+			]
+		}
+	}
+]
