@@ -1,5 +1,7 @@
 # MJur: Zotero Zitierstil für juristische Arbeiten 
 
+[**Download latest Release**](https://github.com/marius9189/m-jur/releases/latest)
+
 ## Hilfreiche Links
 - [Zotero herunterladen](https://www.zotero.org/download/)
 - [Zitierstil in Zotero hinzufügen](https://www.zotero.org/support/preferences/cite)
